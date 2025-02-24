@@ -9,6 +9,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, Soy Diego Díaz</h1></summary>
+	  <a target="_blank" align="center">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   </ul>
 </div>
 
