@@ -15,7 +15,8 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Analista de datos, tecnólogo industrial finalizando estudios en ingeniería</h2></summary>
+    <summary><h2 style="display: inline-block">Analista de datos <br>
+	    | Tecnólogo industrial | Finalizando estudios en ingeniería |</h2></summary>
   </ul>
 </div>
 
@@ -39,7 +40,7 @@
 ✔️ Apoyo la toma de decisiones mediante la comunicación efectiva de hallazgos y recomendaciones
 
 
-🛠️ Stack de herramientas:  
+🛠️ **Stack de herramientas:**  
 - 📈 Excel
 - 🛠️ SQL  
 - 📊 Power BI
