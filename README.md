@@ -58,7 +58,7 @@
 💡 Quiero darle el valor que merecen tus datos ⚡
 
 📫 No dudes en enviarme un mail **dialdica1995@outlook.com**  
-🏠 🚀 **[Puedes explorar mi LinkedIn:](www.linkedin.com/in/diegoalejandrodiaz81516)**  
+🏠 🚀 **[Puedes explorar mi LinkedIn:](https://www.linkedin.com/in/diegoalejandrodiaz81516)**
 
 <!--Intro end-->
 
